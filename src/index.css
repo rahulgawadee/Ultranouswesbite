@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+/* Base styles */
+*, *::before, *::after {
+  font-family: 'gumienert new', Arial, serif;
+}
+
+html, body {
+  font-family: 'gumienert new', Arial, serif;
+}
+
+body {
+  background-color: #fff;
+  color: #000;
+  overflow-x: hidden;
+  font-family: 'gumienert new', Arial, serif;
+}
+
+/* Component styles */
