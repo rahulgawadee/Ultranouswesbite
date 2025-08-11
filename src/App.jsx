@@ -16,7 +16,7 @@ import Footer from './components/Footer'
 import AboutUs from './components/Header/AboutUs'
 import Services from './components/Header/Services'
 import Features from './components/Header/Features'
-import Testimonial from './components/Header/testimonial'
+import Testimonial from './components/Header/Testimonial'
 
 export default function App() {
   const mainWrapRef = useRef(null)
